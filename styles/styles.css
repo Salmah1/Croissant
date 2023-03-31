@@ -1,0 +1,16 @@
+body {
+  background: blanchedalmond;
+  text-align: center;
+}
+
+a {
+  color: cadetblue;
+  margin: 10px;
+}
+
+img {
+  border-radius: 10px;
+  margin: 15px;
+  width: 600px;
+  height: 400px;
+}
